@@ -8,14 +8,6 @@ A top-down cricket game for phones and desktops: swipe to bat and bowl, drag to 
 
 All player names are fictional. Careers are saved in the browser (use the save code in the menu to back up).
 
-## Files
-| File | What it does |
-|---|---|
-| `index.html` | Page, styles and layout |
-| `engine.js` | Ball physics, batting/bowling/fielding, drawing |
-| `data.js` | Teams, name pools, player generation, formats |
-| `career.js` | Competitions, match simulation, stats, menus |
-
-Open `index.html` in a browser (or host the folder on any static web host) — no build step needed.
+Play: https://skoorbydna-lab.github.io/Cricket-World/
 
 © Andy Brooks
